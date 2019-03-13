@@ -1,4 +1,4 @@
-![Alt text] (/img/EverGreenCoinNote.png)
+![Alt text](/img/EverGreenCoinNote.png)
 
 JavaScript EverGreenCoin Paper Wallet Generator
 
