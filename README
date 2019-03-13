@@ -1,7 +1,6 @@
-JavaScript EverGreenCoin Wallet Generator
+JavaScript EverGreenCoin Paper Wallet Generator
 
 A fork of the liteaddress.org project located at:
-https://github.com/vertcoin/paperwallet
 https://github.com/litecoin-project/liteaddress.org
 
 Provides an all-in-one HTML document with embedded JavaScript/Css/Images. The JavaScript is readable not minified and contains no XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the JavaScript locally and trust that the JavaScript did not change after being loaded. 
