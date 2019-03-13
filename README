@@ -1,12 +1,22 @@
 JavaScript EverGreenCoin Paper Wallet Generator
 
-A fork of the VertCoin paper wallet at:
+
+![Alt text] (/img/EverGreenCoinNote.png)
+
+
+Please do not waste paper! ~EGC
+
+
+This is a fork of the VertCoin paper wallet at:
 https://github.com/vertcoin/paperwallet
 
 Which was a fork of the liteaddress.org project located at:
 https://github.com/litecoin-project/liteaddress.org
 
-Provides an all-in-one HTML document with embedded JavaScript/Css/Images. The JavaScript is readable not minified and contains no XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the JavaScript locally and trust that the JavaScript did not change after being loaded. 
+Provides an all-in-one HTML document with embedded JavaScript/Css/Images. 
+The JavaScript is readable not minified and contains no XMLHttpRequest's (no AJAX). 
+The benefit of this technique is you can load the JavaScript locally and trust that the JavaScript did not
+change after being loaded. 
 
 END USER NOTES: 
 
@@ -28,7 +38,9 @@ Notice of Copyrights and Licenses:
 ---------------------------------------
 The EverGreenCoin paper wallet project, software and embedded resources are copyright EverGreenCoin developer.
 
-Portions of the all-in-one HTML document contain JavaScript codes that are the copyrights of others. The individual copyrights are included throughout the document along with their licenses. Included JavaScript libraries are separated with HTML script tags.
+Portions of the all-in-one HTML document contain JavaScript codes that are the copyrights of others.
+The individual copyrights are included throughout the document along with their licenses.
+Included JavaScript libraries are separated with HTML script tags.
 
 Summary of JavaScript functions with a redistributable license:
 
@@ -49,8 +61,10 @@ Copyright (c) 2014 The Vertcoin developers
 Copyright (c) 2012-2013 liteaddress.org
 Copyright (c) 2011-2013 bitaddress.org
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following 
-conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
+and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
